@@ -1,0 +1,35 @@
+<?php
+
+return [
+    'Chat'=>'المحادثه ',
+    'site_title'=>'مقالات ',
+    'profile'=>'الصفحه الشخصيه',
+    'message'=>'رساله',
+    'likes'=>'اعجابات',
+    'create_by'=>'بواسطه',
+    'like'=>'اعجاب',
+    'dislike'=>'لم يعجب',
+    'dislikes'=>'لم يعجبو',
+    'main'=>'الرئسيه',
+    'comment'=>'التعلق',
+    'comments'=>'التعلقيات',
+    'posts'=>'المنشورات',
+    'home'=>'لرئسيه',
+    'publish'=>'نشر',
+    'languages'=>'اللغه',
+    'subject'=>'الموضوع',
+    'subject_title'=>'عنوان الموضوع',
+    'reply'=>'رد',
+    'edit'=>'تعديل',
+    'delete'=>'مسح',
+    'are_you_shower'=>'هل انت متأكد',
+    'photo'=>'الصوره',
+    'create_comment'=>'اضف تعليقا',
+    'add_comment'=>'اضافه التعليق',
+    'like_comment'=>'الاعجاب بالتعليق',
+    'what_do_you_have_to_say?'=>'ماذا تريد ان تنشر؟',
+    'logo'=>'موقع تدريبي',
+    'pages'=>' الصفحات',
+
+
+];
